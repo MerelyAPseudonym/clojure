@@ -1,3 +1,8 @@
+NOTE: this fork of Clojure is not meant to be taken seriously. Like, I do sorta wish that
+the equivalent of a seq was a dict instead, but this project is just to explore Clojure internals.
+I'm curious how much of a task it is to make this new version of Clojure =]
+
+Anyway, let's resume the normal legal shtuff:
  *   Clojure
  *   Copyright (c) Rich Hickey. All rights reserved.
  *   The use and distribution terms for this software are covered by the
